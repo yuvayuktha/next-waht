@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/next-waht/static/js/main.9e79bebe.js",
+    "index.html": "/next-waht/index.html",
+    "main.9e79bebe.js.map": "/next-waht/static/js/main.9e79bebe.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9e79bebe.js"
+  ]
+}
